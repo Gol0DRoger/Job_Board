@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/59cd3251-18c2-4539-8ab5-2c3126fd22b2
 ## 🛠️ Technical Stack
 * **Framework:** Laravel 12
 * **Frontend:** Livewire 3 (Full-stack interactivity)
-* **Authentication:** Laravel Breeze (Tailwind CSS)
+* **Authentication:** Laravel Breeze
 * **Database:** MySQL
 
 ---
