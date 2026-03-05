@@ -63,7 +63,7 @@ Update database credentials (DB_USERNAME, DB_PASSWORD).
 php artisan migrate
 
 ### 5. Storage Link
-Required for resume uploads.
+(Required for resume uploads.)
 
 php artisan storage:link
 
