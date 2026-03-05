@@ -42,11 +42,13 @@ Follow these steps to get the project running locally:
 ### 1. Clone the repository
 
 git clone [https://github.com/your-username/job-board.git](https://github.com/your-username/job-board.git)
+
 cd job-board
 
 ### 2. Install dependencies
 
 composer install
+
 npm install && npm run build
 
 ### 3. Environment Setup
